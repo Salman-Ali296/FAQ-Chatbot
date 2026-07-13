@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "You can return any unused item within 14 days of delivery for a full refund. The product must be in its original packaging with all accessories included."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days within the country. Express shipping (extra charges apply) delivers in 1-2 business days."
+  },
+  {
+    "id": 3,
+    "question": "Do you ship internationally?",
+    "answer": "Currently we only ship within Pakistan. We're working on expanding to international shipping soon."
+  },
+  {
+    "id": 4,
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking link via email and SMS. You can also track it anytime from the 'My Orders' section of your account."
+  },
+  {
+    "id": 5,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash on delivery, credit/debit cards, and bank transfers. Online payments are processed securely through our payment partner."
+  },
+  {
+    "id": 6,
+    "question": "Are your products genuine and authentic?",
+    "answer": "Yes, all products sold on our store are 100% genuine and sourced directly from authorized distributors or manufacturers."
+  },
+  {
+    "id": 7,
+    "question": "Do products come with a warranty?",
+    "answer": "Most electronics come with a manufacturer warranty ranging from 6 months to 1 year. Warranty details are listed on each product page."
+  },
+  {
+    "id": 8,
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order from the 'My Orders' page as long as it hasn't been shipped yet. Once shipped, you'll need to use our return process instead."
+  },
+  {
+    "id": 9,
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "Yes, you can update your delivery address within 2 hours of placing the order by contacting our support team, as long as the order hasn't been dispatched."
+  },
+  {
+    "id": 10,
+    "question": "Do you offer discounts or promo codes?",
+    "answer": "Yes, we regularly run seasonal sales and offer promo codes through our newsletter and social media pages. Check the homepage banner for current offers."
+  },
+  {
+    "id": 11,
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Please contact our support team within 48 hours of delivery with photos of the damaged item, and we'll arrange a free replacement or full refund."
+  },
+  {
+    "id": 12,
+    "question": "How do I create an account?",
+    "answer": "Click on the 'Sign Up' button at the top of the page, enter your email and a password, and verify your email address to activate your account."
+  },
+  {
+    "id": 13,
+    "question": "I forgot my password, what do I do?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email, and follow the reset link sent to your inbox."
+  },
+  {
+    "id": 14,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team via live chat on this site, email at support@techdealstore.com, or by calling our helpline listed in the Contact Us page."
+  },
+  {
+    "id": 15,
+    "question": "Do you have a physical store I can visit?",
+    "answer": "We currently operate as an online-only store, but we do have a pickup point in Lahore for customers who prefer collecting orders in person."
+  },
+  {
+    "id": 16,
+    "question": "What if the price drops after I already bought the product?",
+    "answer": "If the price drops within 7 days of your purchase, contact support with your order number and we'll refund the difference as store credit."
+  },
+  {
+    "id": 17,
+    "question": "Can I get a refund instead of a replacement?",
+    "answer": "Yes, once we receive and inspect your returned item, you can choose between a refund to your original payment method or a replacement."
+  },
+  {
+    "id": 18,
+    "question": "How long does a refund take to process?",
+    "answer": "Refunds are processed within 5-7 business days after we receive and inspect the returned item. Bank transfers may take a couple of extra days to reflect."
+  },
+  {
+    "id": 19,
+    "question": "Is cash on delivery available everywhere?",
+    "answer": "Cash on delivery is available in most major cities. For remote areas, only prepaid orders through card or bank transfer are accepted."
+  },
+  {
+    "id": 20,
+    "question": "Do you sell second-hand or refurbished items?",
+    "answer": "We occasionally list certified refurbished items, clearly marked as 'Refurbished' on the product page, with a shorter warranty period."
+  }
+]

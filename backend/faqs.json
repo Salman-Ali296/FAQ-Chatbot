@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "You can return any unused item within 14 days of delivery for a full refund. The product must be in its original packaging with all accessories included."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days within the country. Express shipping (extra charges apply) delivers in 1-2 business days."
+  },
+  {
+    "id": 3,
+    "question": "Do you ship internationally?",
+    "answer": "Currently we only ship within Pakistan. We're working on expanding to international shipping soon."
+  },
+  {
+    "id": 4,
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking link via email and SMS. You can also track it anytime from the 'My Orders' section of your account."
+  },
+  {
+    "id": 5,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash on delivery, credit/debit cards, and bank transfers. Online payments are processed securely through our payment partner."
+  },
+  {
+    "id": 6,
+    "question": "Are your products genuine and authentic?",
+    "answer": "Yes, all products sold on our store are 100% genuine and sourced directly from authorized distributors or manufacturers."
+  },
+  {
+    "id": 7,
+    "question": "Do products come with a warranty?",
+    "answer": "Most electronics come with a manufacturer warranty ranging from 6 months to 1 year. Warranty details are listed on each product page."
+  },
+  {
+    "id": 8,
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order from the 'My Orders' page as long as it hasn't been shipped yet. Once shipped, you'll need to use our return process instead."
+  },
+  {
+    "id": 9,
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "Yes, you can update your delivery address within 2 hours of placing the order by contacting our support team, as long as the order hasn't been dispatched."
+  },
+  {
+    "id": 10,
+    "question": "Do you offer discounts or promo codes?",
+    "answer": "Yes, we regularly run seasonal sales and offer promo codes through our newsletter and social media pages. Check the homepage banner for current offers."
+  },
+  {
+    "id": 11,
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Please contact our support team within 48 hours of delivery with photos of the damaged item, and we'll arrange a free replacement or full refund."
+  },
+  {
+    "id": 12,
+    "question": "How do I create an account?",
+    "answer": "Click on the 'Sign Up' button at the top of the page, enter your email and a password, and verify your email address to activate your account."
+  },
+  {
+    "id": 13,
+    "question": "I forgot my password, what do I do?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email, and follow the reset link sent to your inbox."
+  },
+  {
+    "id": 14,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team via live chat on this site, email at support@techdealstore.com, or by calling our helpline listed in the Contact Us page."
+  },
+  {
+    "id": 15,
+    "question": "Do you have a physical store I can visit?",
+    "answer": "We currently operate as an online-only store, but we do have a pickup point in Lahore for customers who prefer collecting orders in person."
+  },
+  {
+    "id": 16,
+    "question": "What if the price drops after I already bought the product?",
+    "answer": "If the price drops within 7 days of your purchase, contact support with your order number and we'll refund the difference as store credit."
+  },
+  {
+    "id": 17,
+    "question": "Can I get a refund instead of a replacement?",
+    "answer": "Yes, once we receive and inspect your returned item, you can choose between a refund to your original payment method or a replacement."
+  },
+  {
+    "id": 18,
+    "question": "How long does a refund take to process?",
+    "answer": "Refunds are processed within 5-7 business days after we receive and inspect the returned item. Bank transfers may take a couple of extra days to reflect."
+  },
+  {
+    "id": 19,
+    "question": "Is cash on delivery available everywhere?",
+    "answer": "Cash on delivery is available in most major cities. For remote areas, only prepaid orders through card or bank transfer are accepted."
+  },
+  {
+    "id": 20,
+    "question": "Do you sell second-hand or refurbished items?",
+    "answer": "We occasionally list certified refurbished items, clearly marked as 'Refurbished' on the product page, with a shorter warranty period."
+  },
+  {
+    "id": 21,
+    "question": "What are your customer service hours?",
+    "answer": "Our support team is available Monday through Friday, 9 AM to 9 PM, and Saturday 10 AM to 6 PM. We're closed on Sundays and public holidays."
+  },
+  {
+    "id": 22,
+    "question": "Can I buy a gift card or voucher?",
+    "answer": "Yes, we offer digital gift cards in various denominations starting from Rs. 500. They're delivered instantly via email and never expire."
+  },
+  {
+    "id": 23,
+    "question": "Do you have a loyalty or rewards program?",
+    "answer": "Yes, we have a loyalty program called 'TechRewards'. Earn points with every purchase and redeem them for discounts on future orders."
+  },
+  {
+    "id": 24,
+    "question": "How do I check my order status?",
+    "answer": "Log in to your account, go to 'My Orders', and click on the order number to view detailed status updates. You'll also receive email notifications at every stage."
+  },
+  {
+    "id": 25,
+    "question": "Can I combine multiple promo codes in one order?",
+    "answer": "Only one promo code can be applied per order. However, we do have a referral program where you can earn extra credits."
+  },
+  {
+    "id": 26,
+    "question": "What is the delivery charge for my area?",
+    "answer": "Standard delivery charges are Rs. 199 within city limits and Rs. 299 for out-of-city areas. Free delivery on orders above Rs. 2,500."
+  },
+  {
+    "id": 27,
+    "question": "Will I be notified when my order is shipped?",
+    "answer": "Absolutely! You'll receive an email and SMS notification with your tracking number as soon as your order ships. You can also track it in real-time."
+  },
+  {
+    "id": 28,
+    "question": "Can I return a product without the original packaging?",
+    "answer": "Products must be returned in their original packaging. If you don't have it, the return may be rejected or a restocking fee may apply."
+  },
+  {
+    "id": 29,
+    "question": "How do I update my payment method?",
+    "answer": "You can update your payment method by going to 'Settings' in your account, then 'Payment Methods'. Add a new card or method, then set it as default."
+  },
+  {
+    "id": 30,
+    "question": "What if my order doesn't arrive on time?",
+    "answer": "While we aim to deliver on time, unforeseen circumstances can cause delays. Contact our support team and we'll investigate and provide an update for you."
+  },
+  {
+    "id": 31,
+    "question": "Are your electronics compatible with Pakistan's voltage?",
+    "answer": "Yes, all electronics are compatible with Pakistan's voltage (220V-240V) and come with standard Pakistani plugs. International adapters are available separately."
+  },
+  {
+    "id": 32,
+    "question": "Can I request a specific delivery time?",
+    "answer": "We can't guarantee specific delivery times, but you can leave delivery instructions for the rider, like 'leave at the gate' or 'call before delivery'."
+  },
+  {
+    "id": 33,
+    "question": "Why was my order cancelled by the system?",
+    "answer": "Orders can be auto-cancelled due to payment issues, address verification problems, or stock unavailability. Contact support with your order number for details."
+  },
+  {
+    "id": 34,
+    "question": "Do you have a student discount?",
+    "answer": "Yes, students with a valid educational email address get 10% off on all products. Just verify your student status in the account settings."
+  },
+  {
+    "id": 35,
+    "question": "What happens if I refuse the delivery at the door?",
+    "answer": "Refusing a delivery counts as a returned shipment. A restocking fee may be applied, and standard return charges will apply."
+  },
+  {
+    "id": 36,
+    "question": "Can I exchange a product for a different color or size?",
+    "answer": "Yes, product exchanges are allowed within 7 days of delivery, subject to stock availability. Contact support to initiate an exchange request."
+  },
+  {
+    "id": 37,
+    "question": "Is my personal data safe on this website?",
+    "answer": "Yes, we use industry-standard SSL encryption and never share your personal information with third parties. Read our Privacy Policy for details."
+  },
+  {
+    "id": 38,
+    "question": "How do I unsubscribe from emails?",
+    "answer": "You can unsubscribe by clicking the 'Unsubscribe' link at the bottom of any email, or by managing your preferences in your account settings."
+  },
+  {
+    "id": 39,
+    "question": "What are the sizes of products like?",
+    "answer": "Product dimensions and size guides are available on each product page. For clothing, we have a detailed size chart to help you choose."
+  },
+  {
+    "id": 40,
+    "question": "Can I order products as a guest?",
+    "answer": "Yes, you can checkout as a guest without creating an account. However, creating an account allows you to track orders and save payment methods."
+  },
+  {
+    "id": 41,
+    "question": "What if I get a defective product?",
+    "answer": "We test all products before shipping, but if you receive a defective unit, contact us within 48 hours with video proof, and we'll send a replacement immediately."
+  },
+  {
+    "id": 42,
+    "question": "Do you offer installation services?",
+    "answer": "For large appliances and electronics, we partner with local technicians for professional installation. Charges vary by product type and location."
+  },
+  {
+    "id": 43,
+    "question": "Can I return a gift someone gave me?",
+    "answer": "Yes, gifts can be returned for store credit only. The returner can use the order number to initiate a return, and the credit will be added to your account."
+  },
+  {
+    "id": 44,
+    "question": "What is the recommended product for me?",
+    "answer": "Use our 'Product Finder' tool on the homepage, or describe your needs in chat. Our AI can help suggest the best product for your requirements."
+  },
+  {
+    "id": 45,
+    "question": "Is there any winter sale coming up?",
+    "answer": "Our Winter Mega Sale starts in December! Watch our social media and newsletter for early access and exclusive discounts."
+  },
+  {
+    "id": 46,
+    "question": "How do I rate a product I bought?",
+    "answer": "After receiving your order, you'll receive an email asking for a review. You can also go to 'My Orders' and click 'Write a Review'."
+  },
+  {
+    "id": 47,
+    "question": "Can I pick up my order instead of delivery?",
+    "answer": "Yes, we have a pickup point in Lahore. Select 'Pickup' at checkout and we'll notify you when your order is ready for collection."
+  },
+  {
+    "id": 48,
+    "question": "What happens to my data when I close my account?",
+    "answer": "When you close your account, we delete your personal information from our system within 30 days, except for records required by law."
+  },
+  {
+    "id": 49,
+    "question": "Can I see reviews before buying?",
+    "answer": "Yes, each product page features verified customer reviews and ratings. We also have a 'Top Reviews' section highlighting the most helpful feedback."
+  },
+  {
+    "id": 50,
+    "question": "What is the minimum order value?",
+    "answer": "There is no minimum order value, but orders below Rs. 500 may incur a small handling charge. We recommend adding more items to save on delivery fees."
+  },
+  {
+    "id": 51,
+    "question": "How do I report a fake or counterfeit product?",
+    "answer": "If you suspect a product is not genuine, contact us immediately with order details and photos. We'll investigate and take appropriate legal action if needed."
+  },
+  {
+    "id": 52,
+    "question": "What eco-friendly initiatives do you support?",
+    "answer": "We use recyclable packaging, partner with eco-friendly suppliers, and plant one tree for every 100 orders placed through our Green Tech Initiative."
+  },
+  {
+    "id": 53,
+    "question": "Can I schedule a return pickup?",
+    "answer": "Yes, you can schedule a free return pickup through your account. Our courier partner will collect the item from your doorstep within 24 hours."
+  },
+  {
+    "id": 54,
+    "question": "What are the most popular products right now?",
+    "answer": "Our top sellers are the latest smartphones, wireless earbuds, smartwatches, and budget-friendly laptops. Check the 'Bestsellers' section on the homepage."
+  },
+  {
+    "id": 55,
+    "question": "How do I become a seller on your platform?",
+    "answer": "Visit our 'Sell With Us' page, fill out the application form, and our team will review your request. We're always looking for reliable sellers."
+  },
+  {
+    "id": 56,
+    "question": "Can I buy products on installment?",
+    "answer": "Yes, we offer installment plans through our partner banks. Choose the installment option at checkout and follow the verification process."
+  },
+  {
+    "id": 57,
+    "question": "What if I forget to include an item in my order?",
+    "answer": "You can modify your order within 1 hour of placing it, as long as it hasn't been processed. After that, place a new order and contact support to avoid extra shipping."
+  },
+  {
+    "id": 58,
+    "question": "Do you have a mobile app?",
+    "answer": "Yes, our mobile app is available for iOS and Android. Download it from the App Store or Google Play for an easier shopping experience."
+  },
+  {
+    "id": 59,
+    "question": "How do I earn referral rewards?",
+    "answer": "Share your unique referral link with friends. When they make their first purchase, both you and your friend receive Rs. 200 off your next order!"
+  },
+  {
+    "id": 60,
+    "question": "What types of products do you sell?",
+    "answer": "We specialize in electronics, gadgets, smartphones, laptops, accessories, and tech lifestyle products. We also occasionally feature smart home devices."
+  },
+  {
+    "id": 61,
+    "question": "Can I add a product to my wishlist?",
+    "answer": "Yes, simply click the heart icon on any product page to add it to your wishlist. You'll receive notifications when the price drops."
+  },
+  {
+    "id": 62,
+    "question": "What's the difference between standard and express shipping?",
+    "answer": "Standard shipping takes 3-5 days and is free on orders over Rs. 2,500. Express shipping delivers in 1-2 days and costs Rs. 399."
+  },
+  {
+    "id": 63,
+    "question": "Can I see the product before buying?",
+    "answer": "We don't have physical stores, but we provide high-quality images, 360-degree views, and detailed descriptions. We also offer a satisfaction guarantee."
+  },
+  {
+    "id": 64,
+    "question": "What happens if there's a shortage in my order?",
+    "answer": "In case of missing items, contact us within 24 hours with your order number and list of missing items. We'll arrange a refund or ship the missing items."
+  },
+  {
+    "id": 65,
+    "question": "How can I get help with technical issues on the site?",
+    "answer": "Contact our tech support at techsupport@techdealstore.com or use the live chat feature for immediate assistance with website issues."
+  },
+  {
+    "id": 66,
+    "question": "Do you sell accessories for specific products?",
+    "answer": "Yes, each product page has a 'Frequently Bought Together' section with compatible accessories like cases, chargers, cables, and screen protectors."
+  },
+  {
+    "id": 67,
+    "question": "Can I request a product not listed on the site?",
+    "answer": "Absolutely! Contact us with the product details and we'll try to source it for you. You can also suggest products in our community forum."
+  },
+  {
+    "id": 68,
+    "question": "What's the best way to clean my new electronics?",
+    "answer": "Use a soft microfiber cloth for screens. For ports and crevices, use compressed air. Avoid liquids and harsh chemicals. Check product manuals for specific care."
+  },
+  {
+    "id": 69,
+    "question": "Does the price include sales tax?",
+    "answer": "Yes, all prices displayed include applicable sales tax. International orders may be subject to additional customs duties."
+  },
+  {
+    "id": 70,
+    "question": "Can I use someone else's account to make a purchase?",
+    "answer": "It's against our policies to use someone else's account. You can use the gift card or guest checkout options instead."
+  }
+]

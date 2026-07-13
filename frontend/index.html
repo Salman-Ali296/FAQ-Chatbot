@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech Deal Store — Support Chat</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="page">
+    <div class="page__intro">
+      <p class="page__eyebrow">Tech Deal Store</p>
+      <h1 class="page__heading">Ask us anything</h1>
+      <p class="page__subheading">
+        Shipping, returns, payments, warranty — our support bot matches your
+        question against our FAQ library and answers instantly.
+      </p>
+    </div>
+
+    <div class="chat" id="chat">
+      <div class="chat__header">
+        <div class="chat__status-dot"></div>
+        <div>
+          <div class="chat__title">Support Bot</div>
+          <div class="chat__subtitle">Usually replies instantly</div>
+        </div>
+      </div>
+
+      <div class="chat__messages" id="chatMessages">
+        <div class="message message--bot">
+          <div class="message__bubble">
+            Hey! I'm the Tech Deal Store support bot. Ask me about orders,
+            shipping, returns, payments, or your account.
+          </div>
+        </div>
+      </div>
+
+      <div class="chat__input-row">
+        <input type="text" id="chatInput" class="chat__input" placeholder="Type your question..." autocomplete="off" />
+        <button id="chatSend" class="chat__send" aria-label="Send message">
+          ➜
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
